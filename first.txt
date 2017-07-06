@@ -1,2 +1,1 @@
-this is the first file\
-hai
+this is the first file
